@@ -5,7 +5,7 @@ const path = require('path');
 const app = express();
 
 // CONFIG - Replace with your actual ERLC private server API key
-const SERVER_KEY = 'wcvPtTHURktOiLcWbZJI-wjIAOCqxTLQQTzAseCMKZMCNlkBmqquCaeviNial';
+const SERVER_KEY = '';
 const ERLC_BASE = 'https://api.policeroleplay.community/v1';
 
 // midware
